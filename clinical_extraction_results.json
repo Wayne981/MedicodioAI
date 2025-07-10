@@ -1,0 +1,227 @@
+[
+  {
+    "ReportID": "Report 1",
+    "Clinical Terms": [
+      "polyps",
+      "hemorrhoids",
+      "polyp",
+      "diverticulosis"
+    ],
+    "Anatomical Locations": [
+      "cecal",
+      "cecum",
+      "ileocecal valve",
+      "sigmoid",
+      "proximal",
+      "rectum"
+    ],
+    "Diagnosis": [
+      "90 – Diverticulosis Procedure: Procedure Code Colonoscopy Anesthesia Type : Monitored Anesthesia Care ASA Class : II Lactated Ringers - Solution, Intravenous as directed - 350 00 , Last Administered By: Smith, George At 1041 on 07/07/2025 Lidocaine HCI 2 % Solution, IV - 20 00 , Last Administered By: Smith, George At 1023 on 07/07/2025 Propofol 500 MG/50ML Emulsion, Intravenous - 240 00 , Last Administered By: Smith, George At 1041 on 07/07/2025 Colonoscopy PROCEDURE : There was nothing precluding endoscopy on history or physical exam. Informed consent was obtained with risks and beneﬁts explained to the patient. The patient tolerated the procedure well. There no immediate complications. The patient was placed in left lateral decubitus position. A rectal exam was performed. The pediatric colonoscope was inserted into the rectum and carefully advanced to the cecum. The cecum was identiﬁed by the ileocecal valve, the triradiate fold and appendiceal oriﬁce. Careful inspection was made as the colonoscope was removed including retroﬂexion in the rectum. Findings- The preparation was good. There was melanosis coli in the proximal colon. There was moderate sigmoid diverticulosis. Internal hemorrhoids were seen. IMPRESSION : The patient is an 82-year-old female with history of colon polyps. Today's exam did not reveal any polyps. she did have melanosis coli, diverticulosis and internal hemorrhoids. PLAN : No routine colonoscopy Colonoscopy The patient tolerated the procedure without complications .The colonoscopy was uneventful Expected Output",
+      "8 - Internal hemorrhoids K",
+      "0100 - Personal history of colonic polyps K",
+      "0100 History of colon polyps Z"
+    ],
+    "Procedures": [
+      "endoscopy",
+      "Procedure Code Colonoscopy Anesthesia Type : Monitored Anesthesia Care ASA Class : II Lactated Ringers - Solution, Intravenous as directed - 350 00 , Last Administered By: Smith, George At 1041 on 07/07/2025 Lidocaine HCI 2 % Solution, IV - 20 00 , Last Administered By: Smith, George At 1023 on 07/07/2025 Propofol 500 MG/50ML Emulsion, Intravenous - 240 00 , Last Administered By: Smith, George At 1041 on 07/07/2025 Colonoscopy PROCEDURE : There was nothing precluding endoscopy on history or physical exam. Informed consent was obtained with risks and beneﬁts explained to the patient. The patient tolerated the procedure well. There no immediate complications. The patient was placed in left lateral decubitus position. A rectal exam was performed. The pediatric colonoscope was inserted into the rectum and carefully advanced to the cecum. The cecum was identiﬁed by the ileocecal valve, the triradiate fold and appendiceal oriﬁce. Careful inspection was made as the colonoscope was removed including retroﬂexion in the rectum. Findings- The preparation was good. There was melanosis coli in the proximal colon. There was moderate sigmoid diverticulosis. Internal hemorrhoids were seen. IMPRESSION : The patient is an 82-year-old female with history of colon polyps. Today's exam did not reveal any polyps. she did have melanosis coli, diverticulosis and internal hemorrhoids. PLAN : No routine colonoscopy Colonoscopy The patient tolerated the procedure without complications .The colonoscopy was uneventful Expected Output;",
+      "colonoscopy"
+    ],
+    "ICD-10": [
+      "K64.8",
+      "Z86",
+      "K57.90"
+    ],
+    "CPT": [],
+    "HCPCS": [],
+    "Modifiers": [
+      "By",
+      "82",
+      "or",
+      "on",
+      "07",
+      "IV",
+      "no",
+      "of",
+      "an",
+      "20",
+      "to",
+      "as",
+      "No",
+      "by",
+      "II",
+      "00",
+      "MG",
+      "90",
+      "in",
+      "At",
+      "is"
+    ]
+  },
+  {
+    "ReportID": "Report 2",
+    "Clinical Terms": [
+      "polyps",
+      "hemorrhoids",
+      "sessile",
+      "polyp"
+    ],
+    "Anatomical Locations": [
+      "ascending colon",
+      "ileum",
+      "transverse colon",
+      "sigmoid",
+      "sigmoid colon",
+      "anal canal",
+      "hepatic flexure",
+      "descending colon",
+      "splenic flexure",
+      "rectum",
+      "cecum",
+      "terminal ileum"
+    ],
+    "Diagnosis": [
+      "11 [Colon cancer screening] Procedure: Procedure: Colonoscopy - Anal Canal: K",
+      "Pre-operative Diagnosis: · Z",
+      "9 - Hemorrhoids, unspeciﬁed (without mention of degree) - Rectum: Normal - Sigmoid Colon: Normal - Descending Colon: Normal - Splenic Flexure: Normal - Transverse Colon: Normal - Hepatic Flexure: Normal - Ascending Colon: Normal - Cecum: Normal - Terminal Ileum: Normal - Polyps: - Site: Descending Colon - Size: 6 mm - Type: Sessile Polyp - Device/Method: Cold Snare - Polyp completely removed and retrieved Complications: No Immediate Complication. Expected Output"
+    ],
+    "Procedures": [
+      "colonoscopy",
+      "Procedure: Colonoscopy - Anal Canal: K64.9 - Hemorrhoids, unspeciﬁed (without mention of degree) - Rectum: Normal - Sigmoid Colon: Normal - Descending Colon: Normal - Splenic Flexure: Normal - Transverse Colon: Normal - Hepatic Flexure: Normal - Ascending Colon: Normal - Cecum: Normal - Terminal Ileum: Normal - Polyps: - Site: Descending Colon - Size: 6 mm - Type: Sessile Polyp - Device/Method: Cold Snare - Polyp completely removed and retrieved Complications: No Immediate Complication. Expected Output;"
+    ],
+    "ICD-10": [
+      "K64.9",
+      "Z12.11"
+    ],
+    "CPT": [],
+    "HCPCS": [],
+    "Modifiers": [
+      "mm",
+      "No",
+      "of",
+      "11"
+    ]
+  },
+  {
+    "ReportID": "Report 3",
+    "Clinical Terms": [
+      "erosion",
+      "ulcer",
+      "proctitis",
+      "bleeding",
+      "hemorrhoids",
+      "perforation",
+      "rectal bleeding"
+    ],
+    "Anatomical Locations": [
+      "cecal",
+      "cecum",
+      "ileocecal valve",
+      "transverse colon",
+      "mucosa",
+      "lumen",
+      "distal",
+      "anus",
+      "rectum"
+    ],
+    "Diagnosis": [
+      "Findings : - A single localized erosion (proctitis) was found in the distal rectum at the anal verge .. Biopsies were taken with a cold forceps for histology. Estimated blood loss was minimal. - Internal hemorrhoids were found during retroﬂexion. The hemorrhoids were moderate. - The exam was otherwise without abnormality on direct and retroﬂexion views. Impression : - A single erosion in the distal rectum. Biopsied. - Internal hemorrhoids. - The examination was otherwise normal on direct and retroﬂexion views. Procedure Codes : 45380, Colonoscopy, ﬂexible",
+      "with biopsy, single or multiple Expected Output",
+      "5, Hemorrhage of anus and rectum Procedure: Colonoscopy. Before the procedure, time out was performed, the patient was identiﬁed, and the procedure was veriﬁed. After I obtained informed consent, the scope was passed under direct vision. Throughout the procedure, the patient's blood pressure, pulse, and oxygen saturations were monitored continuously. The Colonoscope was introduced through the anus and advanced to the cecum, identiﬁed by appendiceal oriﬁce and ileocecal valve. The colonoscopy was performed without diiiculty. The patient tolerated the procedure well. Procedure and risks explained to patient which include but not limited to medication reaction, bleeding, perforation, aspiration and misssed lesions. Prep was good. Washes and suctioning done as needed also so overall good visualization of mucosa. Slow withdrawal on of scope with careful inspection of mucosa for abnormalities. Judicious gas insuilation used on way in. Gas removal was done as much as possible on way out. . Retroﬂexion done in the rectum. Scope only advanced when lumen identiﬁed. The quality of the bowel preparation was evaluated using the BBPS (Boston Bowel Preparation Scale) with scores of: Right Colon = 3 (entire mucosa seen well with no residual staining, small fragments of stool or opaque liquid), Transverse Colon = 3 (entire mucosa seen well with no residual staining, small fragments of stool or opaque liquid) and Left Colon = 3 (entire mucosa seen well with no residual staining, small fragments of stool or opaque liquid). The total BBPS score equals",
+      "6, Ulcer of anus and rectum K",
+      "8, Other hemorrhoids K",
+      "Indication : Last colonoscopy 3 years ago, Rectal bleeding Diagnosis Codes : K"
+    ],
+    "Procedures": [
+      "biopsy",
+      "colonoscopy",
+      "Colonoscopy. Before the procedure, time out was performed, the patient was identiﬁed, and the procedure was veriﬁed. After I obtained informed consent, the scope was passed under direct vision. Throughout the procedure, the patient's blood pressure, pulse, and oxygen saturations were monitored continuously. The Colonoscope was introduced through the anus and advanced to the cecum, identiﬁed by appendiceal oriﬁce and ileocecal valve. The colonoscopy was performed without diiiculty. The patient tolerated the procedure well. Procedure and risks explained to patient which include but not limited to medication reaction, bleeding, perforation, aspiration and misssed lesions. Prep was good. Washes and suctioning done as needed also so overall good visualization of mucosa. Slow withdrawal on of scope with careful inspection of mucosa for abnormalities. Judicious gas insuilation used on way in. Gas removal was done as much as possible on way out. . Retroﬂexion done in the rectum. Scope only advanced when lumen identiﬁed. The quality of the bowel preparation was evaluated using the BBPS (Boston Bowel Preparation Scale) with scores of: Right Colon = 3 (entire mucosa seen well with no residual staining, small fragments of stool or opaque liquid), Transverse Colon = 3 (entire mucosa seen well with no residual staining, small fragments of stool or opaque liquid) and Left Colon = 3 (entire mucosa seen well with no residual staining, small fragments of stool or opaque liquid). The total BBPS score equals 9. Findings : - A single localized erosion (proctitis) was found in the distal rectum at the anal verge .. Biopsies were taken with a cold forceps for histology. Estimated blood loss was minimal. - Internal hemorrhoids were found during retroﬂexion. The hemorrhoids were moderate. - The exam was otherwise without abnormality on direct and retroﬂexion views. Impression : - A single erosion in the distal rectum. Biopsied. - Internal hemorrhoids. - The examination was otherwise normal on direct and retroﬂexion views. Procedure Codes : 45380, Colonoscopy, ﬂexible; with biopsy, single or multiple Expected Output;"
+    ],
+    "ICD-10": [
+      "K64.8",
+      "K62.5",
+      "K62.6"
+    ],
+    "CPT": [
+      "45380"
+    ],
+    "HCPCS": [],
+    "Modifiers": [
+      "to",
+      "as",
+      "by",
+      "or",
+      "no",
+      "at",
+      "on",
+      "of",
+      "in",
+      "so"
+    ]
+  },
+  {
+    "ReportID": "Report 4",
+    "Clinical Terms": [
+      "ulcer",
+      "gastritis",
+      "pain",
+      "abdominal pain",
+      "ulcers",
+      "barrett's esophagus"
+    ],
+    "Anatomical Locations": [
+      "duodenum",
+      "pylorus",
+      "esophagus",
+      "stomach",
+      "distal"
+    ],
+    "Diagnosis": [
+      "70 - Gastritis Procedures: Procedure Code EGD w/Biopsy Anesthesia Type : Monitored Anesthesia Care Lactated Ringers - Solution, Intravenous as directed - 200 00 , Last Administered By: Smith, George At 1419 on 07/07/2025 Lidocaine HCI 2 % Solution, IV - 60 00 , Last Administered By: Smith, George At 1408 on 07/07/2025 Propofol 500 MG/50ML Emulsion, Intravenous - 350 00 , Last Administered By: Smith, George At 1419 on 07/07/2025 EGD PROCEDURE : There was nothing precluding endoscopy on history or physical exam. Informed consent was obtained with risks and beneﬁts explained to the patient. The patient tolerated the procedure well. There were no immediate complications The patient was placed in the left lateral decubitus position. The Olympus endoscope was inserted into the esophagus under direct visualization. It was advanced through the esophagus, into the stomach and through the pylorus to the duodenal bulb and 2nd portion of the duodenum. Careful inspection was made as the endoscope was removed including retroﬂexion in the stomach. Findings- In the distal esophagus there was an irregular Z-line from 38-39 cm suggestive of Barrett's esophagus. This was examined both white light and narrow band imaging. Biopsies were obtained of the distal esophagus. In the stomach there was mild antral and body gastritis. Biopsies were obtained for H.pylori. There were no ulcers or masses seen. The visualized portion of the duodenal appeared normal without ulcers or inﬂammation. IMPRESSION : The patient is 55-year-old male with atypical chest pain and right upper quadrant pain. Biopsies today were obtained for H.pylori and Barrett's esophagus. If the patient does Barrett's esophagus and a repeat EGD with biopsy in 6 months will be recommended. Post Operative Impression EGD The patient tolerated the procedure without complications. The EGD was uneventful. Expected Output",
+      "11 - RUQ pain K",
+      "Pre-operative Diagnosis R",
+      "11 - Right upper quadrant abdominal pain Post-operative Diagnosis R",
+      "89 - Atypical chest pain R"
+    ],
+    "Procedures": [
+      "endoscopy",
+      "egd",
+      "biopsy"
+    ],
+    "ICD-10": [
+      "K29.70",
+      "R07.89",
+      "R10.11"
+    ],
+    "CPT": [],
+    "HCPCS": [],
+    "Modifiers": [
+      "By",
+      "or",
+      "70",
+      "11",
+      "on",
+      "If",
+      "07",
+      "IV",
+      "60",
+      "no",
+      "38",
+      "be",
+      "of",
+      "an",
+      "In",
+      "to",
+      "39",
+      "as",
+      "89",
+      "00",
+      "MG",
+      "in",
+      "At",
+      "is",
+      "cm",
+      "It",
+      "55"
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "ReportID": "Sample Report 1",
+    "Clinical Terms": [
+      "polyp",
+      "diverticulosis",
+      "adenoma",
+      "rectal bleeding",
+      "hemorrhoids",
+      "adenomatous",
+      "bleeding"
+    ],
+    "Anatomical Locations": [
+      "rectum",
+      "ileocecal valve",
+      "sigmoid",
+      "cecum",
+      "sigmoid colon",
+      "cecal",
+      "ascending colon"
+    ],
+    "Diagnosis": [
+      "Internal hemorrhoids",
+      "Adenomatous polyp, ascending colon",
+      "The colonoscope was advanced to the cecum. The ileocecal valve was identified. In the sigmoid colon, multiple diverticula were noted consistent with diverticulosis. In the rectum, internal hemorrhoids were visualized. A 5mm polyp was identified in the ascending colon and removed via polypectomy",
+      "Diverticulosis of sigmoid colon"
+    ],
+    "Procedures": [
+      "Total colonoscopy with biopsy",
+      "polypectomy",
+      "biopsy",
+      "colonoscopy"
+    ],
+    "ICD-10": [
+      "K64.1",
+      "K63.5",
+      "K57.30"
+    ],
+    "CPT": [
+      "45385",
+      "45378"
+    ],
+    "HCPCS": [],
+    "Modifiers": [
+      "of",
+      "30",
+      "In",
+      "in",
+      "10",
+      "15",
+      "to"
+    ]
+  },
+  {
+    "ReportID": "Sample Report 2",
+    "Clinical Terms": [
+      "gastritis",
+      "gerd",
+      "dysplasia",
+      "metaplasia",
+      "dysphagia",
+      "esophagitis",
+      "reflux",
+      "barrett's esophagus"
+    ],
+    "Anatomical Locations": [
+      "antrum",
+      "distal",
+      "stomach",
+      "esophagus",
+      "duodenum"
+    ],
+    "Diagnosis": [
+      "Barrett's esophagus with intestinal metaplasia",
+      "The esophagus showed evidence of Barrett's esophagus with intestinal metaplasia. Erosive esophagitis was noted in the distal esophagus. The stomach showed mild gastritis in the antrum. The duodenum appeared normal",
+      "Chronic gastritis",
+      "Erosive esophagitis, Grade B"
+    ],
+    "Procedures": [
+      "egd",
+      "upper endoscopy",
+      "endoscopy",
+      "biopsy",
+      "EGD with biopsy"
+    ],
+    "ICD-10": [
+      "K21.0",
+      "K22.70"
+    ],
+    "CPT": [
+      "43239"
+    ],
+    "HCPCS": [],
+    "Modifiers": [
+      "of",
+      "16",
+      "70",
+      "in",
+      "10"
+    ]
+  },
+  {
+    "ReportID": "Sample Report 3",
+    "Clinical Terms": [
+      "ulcerative colitis",
+      "change in bowel habits",
+      "friability",
+      "colitis",
+      "abdominal pain",
+      "ulcer",
+      "erythema",
+      "pain"
+    ],
+    "Anatomical Locations": [
+      "sigmoid colon",
+      "sigmoid",
+      "mucosa"
+    ],
+    "Diagnosis": [
+      "Sigmoid colitis was observed with mucosal erythema and friability. Sigmoid colon showed inflammatory changes consistent with ulcerative colitis",
+      "Ulcerative colitis, sigmoid colon"
+    ],
+    "Procedures": [
+      "sigmoidoscopy",
+      "Flexible sigmoidoscopy"
+    ],
+    "ICD-10": [
+      "K51.20"
+    ],
+    "CPT": [
+      "45330"
+    ],
+    "HCPCS": [],
+    "Modifiers": [
+      "22",
+      "20",
+      "in",
+      "10",
+      "17"
+    ]
+  },
+  {
+    "ReportID": "Sample Report 4",
+    "Clinical Terms": [
+      "bleeding",
+      "dysplasia"
+    ],
+    "Anatomical Locations": [
+      "cecum"
+    ],
+    "Diagnosis": [
+      "History of gastrointestinal bleeding",
+      "Arteriovenous malformation, cecum",
+      "Colonoscopy revealed an arteriovenous malformation in the cecum. Argon plasma coagulation was applied for hemostasis. No active bleeding observed post-treatment"
+    ],
+    "Procedures": [
+      "Colonoscopy with argon plasma coagulation",
+      "colonoscopy",
+      "ablation",
+      "hemostasis",
+      "argon plasma coagulation"
+    ],
+    "ICD-10": [
+      "K92.2",
+      "K55.20"
+    ],
+    "CPT": [
+      "45382"
+    ],
+    "HCPCS": [
+      "C9734"
+    ],
+    "Modifiers": [
+      "No",
+      "of",
+      "18",
+      "20",
+      "in",
+      "an",
+      "10",
+      "up"
+    ]
+  }
+]
